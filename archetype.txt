@@ -1,0 +1,1 @@
+mvn archetype:generate -DarchetypeGroupId=org.apache.camel.archetypes -DarchetypeArtifactId=camel-archetype-java -DarchetypeVersion=1.5.0 -DgroupId=de.fisp.cameldemo -DartifactId=cameldemo-main
